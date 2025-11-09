@@ -24,10 +24,10 @@ Audit the COMPAS dataset for racial bias in recidivism predictions, focusing on 
 
 ```
  compas-fairness-audit/
-├── COMPAS_Fairness_Audit.ipynb     # Main notebook with code, metrics, and visuals
-├── requirements.txt                # Reproducible environment
-├── .gitignore                      # Clean repo hygiene
-└── README.md                       # Practical audit overview
+├── COMPAS_Fairness_Audit.ipynb     
+├── requirements.txt               
+├── .gitignore                      
+└── README.md                      
 ```
 
 ---
